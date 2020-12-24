@@ -17,4 +17,4 @@ Have all the articles of e-fermat
 
 
 ## `2020 Vol 27`
-[`<p>DEEP INTEGRATION: Fusing Antennas with Electronics</p>`](https://archive.org/details/maaskant-art-2018-vol-27-may.-jun.-01)
+[<p>`DEEP INTEGRATION: Fusing Antennas with Electronics`</p>](https://archive.org/details/maaskant-art-2018-vol-27-may.-jun.-01)
